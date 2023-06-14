@@ -13,15 +13,12 @@ I'm Jakob! I am a developer who tries to make cool stuff. I am from Austria, liv
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Shell-CMD-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blueviolet)
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Tools-MetaSploit-informational?style=for-the-badge&logo=metasploit&logoColor=white&color=informational)
-
 ## 📱 My GitHub:
 [![git](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)]([1])
 [![git-org](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)]([1])
 
 [![gitfollow](https://img.shields.io/github/followers/jkampich1411?logo=github&style=for-the-badge)](https://jkdev.io)
-[![gitorgstars](https://img.shields.io/github/stars/jkdevrun?label=Org%20Stars&logo=github&style=for-the-badge)](https://jkdev.io)
+[![gitorgstars](https://img.shields.io/github/stars/jkdev-io?label=Org%20Stars&logo=github&style=for-the-badge)](https://jkdev.io)
 
 ### Happy Coding
 ***
